@@ -7,7 +7,7 @@
 # Follow-up: what if you can't use division?
 #   While there is a solution that solves the problem without division, it does not improve the time or space efficiency (actully makes space worse) and thus not an optimal solution
 
-input = [1, 2, 3, 4, 5]
+input = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
 
 # The solution to this problem is fairly straight forward and is fairly time efficient, but space efficiency could be better if there is a solution that can be done in place
 # Time Complexity: O(n)
